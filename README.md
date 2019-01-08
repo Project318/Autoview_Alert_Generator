@@ -10,6 +10,6 @@ Download AutoIT at: https://www.autoitscript.com/site/autoit/downloads/
 
 Script uses autoit Extended InputBox from: https://github.com/jesobreira/extinputbox_au3
 
-Autoview_Alert_Generator.exe is the compiled version of the script.
+Autoview_Alert_Generator.exe is the compiled (x86) version of the script.
 
 ![2019-01-08_14-59-35](2019-01-08_14-59-35.jpg)
