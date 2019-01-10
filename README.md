@@ -6,7 +6,9 @@ Got fed up doing mistakes in copy/pasting autoview alerts, so I thought id try a
 
 Simple AutoIT code to properly generate autoview alerts in notepad.
 
-Download Autoview at: https://autoview.with.pink/
+Autoview website: https://autoview.with.pink/
+
+Get Autoview Extension for Google chrome: https://chrome.google.com/webstore/detail/autoview/okdhadoplaoehmeldlpakhpekjcpljmb
 
 Download AutoIT at: https://www.autoitscript.com/site/autoit/downloads/
 
